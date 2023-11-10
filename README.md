@@ -1,4 +1,4 @@
-# server_docs
+# Server-Docs
 A collection of documents to guide new users on how to properly use the shared server. [Wiki](https://github.com/mir-cisuc/server_docs/wiki)
 If you have any suggestions or find any errors, please open a new issue in the [Issues](https://github.com/mir-cisuc/server_docs/issues) tab.
 
